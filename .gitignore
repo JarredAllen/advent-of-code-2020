@@ -1,0 +1,2 @@
+# Ignore text files, since those are the input data that's just for me
+*.txt
